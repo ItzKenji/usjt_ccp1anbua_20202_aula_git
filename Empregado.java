@@ -7,7 +7,7 @@ private double salario;
 private double comissao;
 private double bonus;
 
-public double calcula_salario{
+public double calcula_salario(){
 
    switch (tipo){
 
